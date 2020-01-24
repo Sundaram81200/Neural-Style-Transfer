@@ -1,7 +1,9 @@
 # Neural-Style-Transfer
 
 # the image you want to transform.
-<img src="images/eiffel.jpg" width="300">
+![](images/effiel.jpg)
  # the style image.
- <img src="(images/starrynight.jpg" width="300">
+ ![](images/starrynight.jpg)
+# Transformed Image
+![](images/style_transfer_result_at_iteration_19.jpg)
  
